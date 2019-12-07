@@ -1,0 +1,2 @@
+# SQLTestAssignment
+SQL Querie
