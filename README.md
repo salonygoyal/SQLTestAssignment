@@ -1,2 +1,2 @@
 # SQLTestAssignment
-SQL Querie
+SQL Queries
